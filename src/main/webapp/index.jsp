@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<a href="https://github.com/Sourav-Sharmaa">Github Profile</a>
+<a href="https://github.com/Sourav-Sharmaa">Github Profile of Sourav Sharma</a>
 <a href="https://github.com/Sourav-Sharmaa/Resume/blob/main/ssres%20(1)_compressed.pdf"> RESUME</a>
 <a href="https://www.linkedin.com/in/sourav-sharma-0631a3175/">Linkedin Profile</a>
 <h2><font color='Black'>
