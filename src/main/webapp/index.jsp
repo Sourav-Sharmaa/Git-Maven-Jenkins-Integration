@@ -8,7 +8,7 @@
 
 SOURAV SHARMA <br>
 Email-id: - sharmasourav626@gmail.com <br>
-Contact No: +91-8699137350 <br>
+
 Language: English, Hindi, Punjabi <br>
 
 
