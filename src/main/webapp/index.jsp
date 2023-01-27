@@ -7,8 +7,11 @@
 <h2><font color='Black'>
 
 SOURAV SHARMA <br>
-Email-id: - sharmasourav626@gmail.com <br>
+DevOps Engineer with hands-on experience supporting, automating, and optimizing mission critical deployments in AWS.<br>
+Good hands-on knowledge of Source Code Management (Version Control System) tool like Git.<br>
+Proficient in developing Continuous Integration/ Delivery pipelines. Experience with automation/ integration tools like Jenkins.<br>
 
+Email-id: - sharmasourav626@gmail.com <br>
 Language: English, Hindi, Punjabi <br>
 
 
